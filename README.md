@@ -6,7 +6,8 @@ All images are fully recreated to fit muOS.
 
 ![muOS_20240930_1933_0](https://github.com/user-attachments/assets/c586990d-e671-4d1d-a086-6f5d25b4a0a7)
 
-![muOS_20240930_1933_1](https://github.com/user-attachments/assets/301ab834-0f37-4d26-b850-044f71f1ce94)
+![gba](https://github.com/user-attachments/assets/c4c3876a-551e-4d18-baf1-e4ce915ba40e)
+
 
 ## Installation
 
