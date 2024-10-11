@@ -6,8 +6,6 @@
    - es-theme-epicnoir-master\_art\controllers\psx.png
    - es-theme-epicnoir-master\_art\posters\psx.jpg
 4. Resize the poster to width 482xp and drag it into template and snap it to the right-top sides
-5. Drag the controller image to the template and resize it (ctrl+t) to fit within the guides
-
-6. Align it to the vertical center and make sure to resize enough to leave space
-
-7.    
+5. Drag the controller image to the template and resize it (ctrl+t) to fit within the controller guides
+6. Align it to the vertical center and left horizontally. Make sure to resize enough to leave space top and bottom
+7. wip...   
