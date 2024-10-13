@@ -4,7 +4,7 @@ This is a port of the Epic Noir theme, [originally by c64-dev & Chicuelo](https:
 
 All images are fully recreated to fit muOS.
 
-![muOS_20240930_1933_0](https://github.com/user-attachments/assets/c586990d-e671-4d1d-a086-6f5d25b4a0a7)
+![EpicNoir-EpicWhite](https://github.com/user-attachments/assets/d5143325-d1ca-40e0-ad94-e41d59ccb657)
 
 ![gba](https://github.com/user-attachments/assets/c4c3876a-551e-4d18-baf1-e4ce915ba40e)
 
