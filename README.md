@@ -14,6 +14,8 @@ All images are fully recreated to fit muOS.
 1. Download Epic-Noir.zip from Releases
 2. Store the zip file on your muOS SD card under the ARCHIVE folder
 3. Install the skin using Archive Manager (under Applications)
+4. Go to **Settings/Configuration > General Settings > Interface Options**. Set Content Box Art to **Fullscreen + Front**
+5. Open **Theme Picker** under Settings/Configuration and select Epic Noir or Epic White
 
 ## Additional skin files
 
