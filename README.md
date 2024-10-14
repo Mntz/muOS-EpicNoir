@@ -2,11 +2,13 @@
 
 This is a port of the Epic Noir theme, [originally by c64-dev & Chicuelo](https://github.com/c64-dev/es-theme-epicnoir).
 
-All images are fully recreated to fit muOS.
+All images are fully recreated to fit muOS. Installation steps below.
 
 ![EpicNoir-EpicWhite](https://github.com/user-attachments/assets/d5143325-d1ca-40e0-ad94-e41d59ccb657)
 
-![gba](https://github.com/user-attachments/assets/c4c3876a-551e-4d18-baf1-e4ce915ba40e)
+![muOS_20241014_1945_0](https://github.com/user-attachments/assets/218b3db3-f261-4430-b05a-486ba66e637f)
+
+![megadrive](https://github.com/user-attachments/assets/234656b4-74a2-4e76-a70b-5a6631420913)
 
 
 ## Installation
