@@ -8,6 +8,8 @@ All images are fully recreated to fit muOS. Installation steps below.
 
 ![muOS_20241014_1945_0](https://github.com/user-attachments/assets/218b3db3-f261-4430-b05a-486ba66e637f)
 
+![gba](https://github.com/user-attachments/assets/f3a3f21a-b351-4dcb-80a8-fbbaed7b5bcf)
+
 ![megadrive](https://github.com/user-attachments/assets/234656b4-74a2-4e76-a70b-5a6631420913)
 
 
