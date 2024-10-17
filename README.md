@@ -22,5 +22,5 @@ All images are fully recreated to fit muOS. Installation steps below.
 ## Additional skin files
 
 1. Download Epic-Noir-FolderArt.zip
-2. Extract and store the image files under MUOS/info/catalogue/Folder/box (This can be on SD1 or SD2)
+2. Extract and store the image files under MUOS/info/catalogue/Folder/box (This can be on SD1 or SD2, depending on your setup)
 3. Make sure the filenames match your rom folder names
