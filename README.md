@@ -30,7 +30,7 @@ All images are fully recreated to fit muOS. Installation steps below.
 The following steps use Scrappy to get rom art but you can use any other application like Skraper that supports custom xml's.
 
 1. Download and install ![Scrappy](https://github.com/gabrielfvale/scrappy/releases) in muOS
-2. Download epic-gradient.zip from releases
+2. Download epic.gradient.scraper.zip from releases
 3. Add the xml file to /SD1/MUOS/application/.scrappy/templates
 4. Add the png file to /SD1/MUOS/application/.scrappy/templates/mask
 5. You can now select epic-gradient as artwork option in Scrappy
