@@ -36,4 +36,5 @@ The following steps use Scrappy to get rom art but you can use any other applica
 5. You can now select epic-gradient as artwork option in Scrappy
 
 ![muOS_20241110_1328_0](https://github.com/user-attachments/assets/a5da05a1-e14c-45aa-aca5-e67e0433d43f)
-![muOS_20241110_1336_0](https://github.com/user-attachments/assets/ca886a93-9b59-4c37-a39b-f7b06b8638ea)
+![muOS_20241110_1338_0](https://github.com/user-attachments/assets/e9fcfff4-5c9d-4cf7-aff0-9a130302e337)
+
