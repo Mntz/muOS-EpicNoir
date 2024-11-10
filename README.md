@@ -24,3 +24,16 @@ All images are fully recreated to fit muOS. Installation steps below.
 1. Download Epic-Noir-FolderArt.zip
 2. Extract and store the image files under MUOS/info/catalogue/Folder/box (This can be on SD1 or SD2, depending on your setup)
 3. Make sure the filenames match your rom folder names
+
+## Art scraping
+
+The following steps use Scrappy to get rom art but you can use any other application like Skraper that supports custom xml's.
+
+1. Download and install ![Scrappy](https://github.com/gabrielfvale/scrappy/releases) in muOS
+2. Download epic-gradient.zip from releases
+3. Add the xml file to /SD1/MUOS/application/.scrappy/templates
+4. Add the png file to /SD1/MUOS/application/.scrappy/templates/mask
+5. You can now select epic-gradient as artwork option in Scrappy
+
+![muOS_20241110_1328_0](https://github.com/user-attachments/assets/a5da05a1-e14c-45aa-aca5-e67e0433d43f)
+![muOS_20241110_1336_0](https://github.com/user-attachments/assets/ca886a93-9b59-4c37-a39b-f7b06b8638ea)
