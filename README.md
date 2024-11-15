@@ -11,17 +11,23 @@ All images are fully recreated to fit muOS. Installation steps below.
 ![megadrive](https://github.com/user-attachments/assets/3208bff0-fdd9-40b9-8d48-bed8583b7b05)
 
 
-## Installation
+## Theme installation
 
-1. Download Epic-Noir.zip from Releases
+1. Download Epic.Noir.zip (or White) from Releases
 2. Store the zip file on your muOS SD card under the ARCHIVE folder
 3. Install the skin using Archive Manager (under Applications)
 4. Go to **Settings/Configuration > General Settings > Interface Options**. Set Content Box Art to **Fullscreen + Front**
 5. Open **Theme Picker** under Settings/Configuration and select Epic Noir or Epic White
 
-## Additional skin files
+## Additional system art
 
-1. Download Epic-Noir-FolderArt.zip
+**A. Automated installation**
+1. Download Epic.Noir.System.Images.AM.zip (or White)
+2. Store the zip file on your muOS SD card under the ARCHIVE folder
+3. Install the console art using Archive Manager (under Applications)
+
+**B. Manual installation**
+1. Download Epic.Noir.FolderArt.zip (or White)
 2. Extract and store the image files under MUOS/info/catalogue/Folder/box (This can be on SD1 or SD2, depending on your setup)
 3. Make sure the filenames match your rom folder names
 
