@@ -38,7 +38,7 @@ The following steps use Scrappy to get rom art but you can use any other applica
 1. Download and install ![Scrappy](https://github.com/gabrielfvale/scrappy/releases) in muOS
 2. Download epic.gradient.scraper.zip from releases
 3. Add the xml file to /SD1/MUOS/application/.scrappy/templates
-4. Add the png file to /SD1/MUOS/application/.scrappy/templates/mask
+4. Add the png file to Scrappy's mask folder under the resources folder
 5. You can now select epic-gradient as artwork option in Scrappy
 
 ![muOS_20241110_1328_0](https://github.com/user-attachments/assets/a5da05a1-e14c-45aa-aca5-e67e0433d43f)
