@@ -31,6 +31,10 @@ All images are fully recreated to fit muOS. Installation steps below.
 2. Extract and store the image files under MUOS/info/catalogue/Folder/box (This can be on SD1 or SD2, depending on your setup)
 3. Make sure the filenames match your rom folder names
 
+**C. Uninstalling system art**
+If you switch themes, the installed folder art will still be displayed.
+Uninstalling is a manual process. Delete the images files under MUOS/info/catalogue/Folder/box
+
 ## Art scraping
 
 The following steps use Scrappy to get rom art but you can use any other application like Skraper that supports custom xml's.
