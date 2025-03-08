@@ -32,8 +32,8 @@ All images are fully recreated to fit muOS. Installation steps below.
 3. Make sure the filenames match your rom folder names
 
 **C. Uninstalling system art**
-If you switch themes, the installed folder art will still be displayed.
-Uninstalling is a manual process. Delete the images files under MUOS/info/catalogue/Folder/box
+1. If you switch themes, the installed folder art will still be displayed.
+2. Uninstalling is a manual process. Delete the images files under MUOS/info/catalogue/Folder/box
 
 ## Art scraping
 
