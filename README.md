@@ -16,21 +16,21 @@ Installation steps below.
 
 ## Theme installation
 
-1. Download Epic.Noir.zip (or White) from Releases
-2. Store the zip file on your muOS SD card under the ARCHIVE folder
-3. Install the skin using Archive Manager (under Applications)
+1. Download Epic.Noir.muxthm (or White) from Releases
+2. Store the muxthm file on your muOS SD card under the ARCHIVE folder
+3. Install the theme using Archive Manager (under Applications)
 4. Go to **Settings/Configuration > General Settings > Interface Options**. Set Content Box Art to **Fullscreen + Front**
 5. Open **Theme Picker** under Settings/Configuration and select Epic Noir or Epic White
 
 ## Additional system art
 
 **A. Automated installation**
-1. Download Epic.Noir.System.Images.AM.zip (or White)
-2. Store the zip file on your muOS SD card under the ARCHIVE folder
+1. Download the System.Images.Install.Pack.muxupd
+2. Store the muxupd file on your muOS SD card under the ARCHIVE folder
 3. Install the console art using Archive Manager (under Applications)
 
 **B. Manual installation**
-1. Download Epic.Noir.FolderArt.zip (or White)
+1. Download Epic.Noir.-.System.Images.zip (or White)
 2. Extract and store the image files under MUOS/info/catalogue/Folder/box (This can be on SD1 or SD2, depending on your setup)
 3. Make sure the filenames match your rom folder names
 
