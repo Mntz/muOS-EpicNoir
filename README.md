@@ -1,8 +1,9 @@
 # muOS Epic Noir skin
 
-This is a port of the Epic Noir theme, [originally by c64-dev & Chicuelo](https://github.com/c64-dev/es-theme-epicnoir).
+This is mainly a port of the Epic Noir theme, [originally by c64-dev & Chicuelo](https://github.com/c64-dev/es-theme-epicnoir).
+All images are fully recreated to fit muOS and it contains a nice suitable home screen. Epic White is a brand new version of Noir with brighter colours.
 
-All images are fully recreated to fit muOS. Installation steps below.
+Installation steps below.
 
 ![EpicNoir-EpicWhite](https://github.com/user-attachments/assets/d5143325-d1ca-40e0-ad94-e41d59ccb657)
 
