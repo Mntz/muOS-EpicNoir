@@ -2,7 +2,7 @@
 
 This is mainly a port of the Epic Noir theme, [originally by c64-dev & Chicuelo](https://github.com/c64-dev/es-theme-epicnoir).
 
-All images are fully recreated to fit muOS and it contains a nice suitable home screen.
+All images are fully recreated to fit muOS and it contains a nice suitable home screen.\
 Epic White is a brand new version of Noir with brighter colours.
 
 Installation steps below.
