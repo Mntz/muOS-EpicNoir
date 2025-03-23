@@ -7,8 +7,6 @@ Epic White is a brand new version of Noir with brighter colours.
 
 Installation steps below.
 
-![EpicNoir-EpicWhite](https://github.com/user-attachments/assets/d5143325-d1ca-40e0-ad94-e41d59ccb657)
-
 ![homeloop](https://github.com/user-attachments/assets/f0141a34-09ad-4781-94fc-c0eabe3b99fc)
 
 ![Epic-White-for-34XX640](https://github.com/user-attachments/assets/ab46d90a-a3dd-47e5-b1d0-e353cff26594)
