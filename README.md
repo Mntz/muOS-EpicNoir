@@ -9,6 +9,8 @@ Installation steps below.
 
 ![EpicNoir-EpicWhite](https://github.com/user-attachments/assets/d5143325-d1ca-40e0-ad94-e41d59ccb657)
 
+![Epic-White-for-34XX640](https://github.com/user-attachments/assets/ab46d90a-a3dd-47e5-b1d0-e353cff26594)
+
 ![gba](https://github.com/user-attachments/assets/f3a3f21a-b351-4dcb-80a8-fbbaed7b5bcf)
 
 ![megadrive](https://github.com/user-attachments/assets/3208bff0-fdd9-40b9-8d48-bed8583b7b05)
