@@ -21,7 +21,7 @@ Installation steps below.
 1. Download Epic.Noir.muxthm (or White) from Releases
 2. Store the muxthm file on your muOS SD card under the ARCHIVE folder
 3. Install the theme using Archive Manager (under Applications)
-4. Go to **Settings/Configuration > General Settings > Interface Options**. Set Content Box Art to **Fullscreen + Front**
+4. Go to **Settings/Configuration > Customisation**. Set Content Box Art to **Fullscreen + Front**
 5. Open **Theme Picker** under Settings/Configuration and select Epic Noir or Epic White
 
 ## Additional system art
